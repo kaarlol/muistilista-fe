@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Muistilista",
+  "name": "Muistilista Fraktion rekrytehtäväksi",
   "icons": [
     {
       "src": "favicon.ico",
