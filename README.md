@@ -1,4 +1,4 @@
-# Muistilista React-applikaation frotti
+# Muistilista React-applikaation frontti
 
 Tämä projekti on rakennettu [Create React App](https://github.com/facebook/create-react-app) pohjalta.
 
